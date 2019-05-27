@@ -26,22 +26,8 @@ div:hover {
 
 #header {
   background-color: blue;
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-#header:hover {
-  height: 200px;
 }
 
 #footer {
   background-color: black;
-  width: 300px;
-  height: 100px;
-  margin: 0 auto;
-}
-
-#footer:hover {
-  height: 200px;
 }
